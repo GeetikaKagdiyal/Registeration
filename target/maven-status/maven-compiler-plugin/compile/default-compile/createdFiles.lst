@@ -1,0 +1,6 @@
+com\model\Registration.class
+com\controller\newUpdateservlet.class
+com\controller\RegisterServlet.class
+com\controller\newone.class
+com\controller\deleteServlet.class
+com\dao\registrationDAO.class
